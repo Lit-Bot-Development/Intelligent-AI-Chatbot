@@ -1,0 +1,7 @@
+{
+    "Fragen":["M", "YY"],
+    "Antworten":["M", "YY"],
+    "ERROR_NO_RESULT_DE":"Ich habe nichts in meiner Datenbank gefunden... Vielleicht mal mit einer anderen Frage?",
+    "ERROR_NO_RESULT_EN":"I couldn't find anything in my database ... Maybe with a different question?",
+    "Sprache":"DE"
+}
